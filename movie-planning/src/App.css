@@ -1,0 +1,11 @@
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+.rating-stars button {
+  background: none;
+  border: none;
+  padding: 0 2px;
+  cursor: pointer;
+}
